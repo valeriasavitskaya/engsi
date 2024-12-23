@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+    font-family: comic sans ms;
+}
+body {
+    background-image: url('примерызаданий.jpg');
+    background-size: cover;
+}
+
+
+#str{
+    position:absolute;
+    font-size:35pt;
+    top:40px;
+    left:150px;
+    font-family: comic sans ms;
+}
+#f1{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position:absolute;
+    font-size:32pt;
+    left:35%;
+}
+
+#f2{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position:absolute;
+    font-size:35pt;
+    left:35%;
+    top:100px;
+}
+
+#f3{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position:absolute;
+    font-size:35pt;
+    left:35%; 
+    top:300px;
+}
+
+#f4{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position:absolute;
+    font-size:35pt;
+    left:35%;
+    top:500px;
+}
+
+#tx1{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position: absolute;
+    font-size: 10pt;
+    top:100px;
+    }
+
+#tx2{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position: absolute;
+    font-size: 10pt;
+    top:300px;
+    }
+#tx3{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position: absolute;
+    font-size: 10pt;
+    top:500px;
+    }
+#tx4{
+    font-family: comic sans ms;
+    color: #78A3AB;
+    position: absolute;
+    font-size: 10pt;
+    top:780px;
+    }

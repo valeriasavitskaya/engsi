@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+    font-family: comic sans ms;
+}
+body {
+    background-image: url('фонглавная.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#zag1{
+    position: absolute;
+    font-size: 20pt;
+    left:5%;
+    top:10%;
+    font-family: comic sans ms;
+    color: #78A3AB;
+}
+
+#gip1{
+    position:absolute;
+    font-size:25pt;
+    top:40%;
+    left:62%;
+}
+#gip2{
+    position:absolute;
+    font-size:25pt;
+    top: 55%;
+    left: 67%;
+}
+#gip3{
+    position:absolute;
+    font-size:25pt;
+    top: 75%;
+    left: 64%;
+}
